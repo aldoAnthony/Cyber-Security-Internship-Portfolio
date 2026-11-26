@@ -11,14 +11,12 @@ I'm a cybersecurity intern with over ten years in hands-on technical roles and a
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Reports](https://github.com/aldoAnthony/threat-hunting-reports)**
-  Multi-stage hunts across endpoint and cloud telemetry, written in KQL and mapped to MITRE ATT&CK.
-- **[Incident Response: Honeypot Breach](https://github.com/aldoAnthony/incident-response-honeypot)**
-  Built and logged a MySQL honeypot, wrote detections, then detected, contained and reported a live breach (NIST 800-61).
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/aldoAnthony/threat-hunting-scenario-tor)**
+  Hunted for unauthorised Tor Browser use on an endpoint with KQL in Microsoft Defender for Endpoint, building the timeline and mapping it to MITRE ATT&CK.
 
 ## 🧰 Tools I Used
 
-Microsoft Defender for Endpoint · Microsoft Sentinel · KQL · Tenable · PowerShell · Microsoft Azure · MITRE ATT&CK · NIST 800-61
+Microsoft Defender for Endpoint · Microsoft Sentinel · KQL · Tenable · PowerShell · Microsoft Azure · MITRE ATT&CK
 
 <hr/>
 
