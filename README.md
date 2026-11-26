@@ -7,12 +7,19 @@ I'm a cybersecurity intern with over ten years in hands-on technical roles and a
 - **[Vulnerability Management Programme Implementation](https://github.com/aldoAnthony/vulnerability-management-program/)**
   Policy, authenticated Tenable scanning, CVSS-based prioritisation, remediation and rescans to verify.
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/aldoAnthony/programmatic-vulnerability-remediations)**
-  Scripted fixes for vulnerabilities and failed DISA STIG checks, each verified with a Tenable rescan.
+  PowerShell scripts that fix the vulnerabilities found in the vulnerability management programme, each verified with a Tenable rescan.
+
+## 🔒 Windows 11 STIG Remediations
+
+- **[Windows 11 STIG Remediations](https://github.com/aldoAnthony/windows-11-stig-remediations)**
+  Ten failed DISA STIG checks on a Windows 11 VM, each remediated with a PowerShell script and verified with a Tenable rescan.
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/aldoAnthony/-threat-hunting-scenario-tor)**
   Hunted for unauthorised Tor Browser use on an endpoint with KQL in Microsoft Defender for Endpoint, building the timeline and mapping it to MITRE ATT&CK.
+- **[PHP2Shell: The Hartwell Breach](https://github.com/aldoAnthony/threat-hunt-php2shell-hartwell-breach)** 🥇
+  Community threat hunt where I placed first, investigating the breach end to end and writing up the findings in a full report.
 
 ## 🧰 Tools I Used
 
