@@ -19,7 +19,7 @@ I'm a cybersecurity intern with over ten years in hands-on technical roles and a
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/aldoAnthony/-threat-hunting-scenario-tor)**
   Hunted for unauthorised Tor Browser use on an endpoint with KQL in Microsoft Defender for Endpoint, building the timeline and mapping it to MITRE ATT&CK.
 - **[PHP2Shell: The Hartwell Breach](https://github.com/aldoAnthony/threat-hunt-php2shell-hartwell-breach)** 🥇
-  Community threat hunt where I placed first, investigating the breach end to end and writing up the findings in a full report.
+  Community threat hunt where I placed first. Reconstructed a webshell attack on a WordPress server from seven Sentinel log sources: exploitation, credential theft, three persistence mechanisms and a fake ransom note, mapped to MITRE ATT&CK with validated detection rules.
 
 ## 🧰 Tools I Used
 
