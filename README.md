@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/aldoanthony">Aldo Anthony</a>'s Cybersecurity Internship Portfolio 🛡️
+# Cybersecurity Internship Portfolio 🛡️
 
 I'm a cybersecurity intern with over ten years in hands-on technical roles and a background in data engineering. These projects come from my LOG(N) Pacific internship, where I worked in a live Azure environment with Microsoft Defender for Endpoint, Microsoft Sentinel, KQL and Tenable. Each one is written up end to end: what I set out to do, how I did it, what I found and what I'd do next.
 
