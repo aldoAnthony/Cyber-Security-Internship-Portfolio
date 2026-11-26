@@ -6,7 +6,7 @@ I'm a cybersecurity intern with over ten years in hands-on technical roles and a
 
 - **[Vulnerability Management Programme Implementation](https://github.com/aldoAnthony/vulnerability-management-program)**
   Policy, authenticated Tenable scanning, CVSS-based prioritisation, remediation and rescans to verify.
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH & Shell Commands)](https://github.com/aldoAnthony/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/aldoAnthony/programmatic-vulnerability-remediations)**
   Scripted fixes for vulnerabilities and failed DISA STIG checks, each verified with a Tenable rescan.
 
 ## 🚨 Threat Hunting and Security Operations
