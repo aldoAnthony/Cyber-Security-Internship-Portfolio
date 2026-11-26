@@ -11,7 +11,7 @@ I'm a cybersecurity intern with over ten years in hands-on technical roles and a
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/aldoAnthony/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/aldoAnthony/-threat-hunting-scenario-tor)**
   Hunted for unauthorised Tor Browser use on an endpoint with KQL in Microsoft Defender for Endpoint, building the timeline and mapping it to MITRE ATT&CK.
 
 ## 🧰 Tools I Used
